@@ -1,6 +1,5 @@
 # task-manager-python
 Create and manages task using python simple program
-Certainly! A good Python project idea could be to create a "Personal Task Manager." Here's a simple outline to get you started:
 
 Project Name: Personal Task Manager
 
